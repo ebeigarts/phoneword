@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.17.0)
+    ffi-aspell (1.1.0)
+      ffi
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ffi-aspell
+
+BUNDLED WITH
+   2.5.17
